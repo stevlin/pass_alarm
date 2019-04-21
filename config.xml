@@ -4,8 +4,8 @@
     <description>
        Firefighter PASS Alarm
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="contact@firerescuetech.ca" href="http://firerescuetech.ca">
+        Fire Rescue Tech Team
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
